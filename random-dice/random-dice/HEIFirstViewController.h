@@ -10,6 +10,7 @@
 
 @interface HEIFirstViewController : UIViewController {
     int i,a;
+    NSString *bla;
     
 }
 
