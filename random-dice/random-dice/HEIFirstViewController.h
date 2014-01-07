@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface HEIFirstViewController : UIViewController
+@interface HEIFirstViewController : UIViewController {
+    int i;
+}
 
 @end
