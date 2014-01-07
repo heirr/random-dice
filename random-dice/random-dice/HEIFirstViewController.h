@@ -9,7 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface HEIFirstViewController : UIViewController {
-    int i;
+    int i,a;
+    
 }
 
 @end
